@@ -4,6 +4,17 @@
 
 🚀 **Automate Nginx Installation & Configuration Using Ansible**  
 
+![Project Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Platform](https://img.shields.io/badge/platform-AWS_Linux_2-orange)
+
+![Ansible](https://img.shields.io/badge/Ansible-Automation-red?logo=ansible)
+![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-green?logo=nginx)
+![AWS](https://img.shields.io/badge/Deployed%20on-AWS-232F3E?logo=amazon-aws)
+
+![CI](https://github.com/your-username/your-repo/actions/workflows/main.yml/badge.svg)
+
+
 This project provides **Ansible playbooks** to automate the deployment and management of **Nginx web servers** on remote Linux machines.  
 
 ## **Key Features**  
